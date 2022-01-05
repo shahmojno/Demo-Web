@@ -1,0 +1,55 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+.fex-container{
+    display: flex;
+    
+}
+
+#Name{
+    color: orangered;
+}
+
+.half-width{
+    width: 50%;
+    padding: 3px;
+
+}
+
+.half-width img{
+    width: 80%;
+    margin: 10px;
+}
+
+.font-size{
+    font-size: 17px;
+    text-align: justify;
+    font-weight: 500px;
+    margin-right: 30px;
+    m
+}
+
+#color-web{
+    font-size: 30px;
+    color: red;
+}
+
+.top-image{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+.margin-con{
+    margin-left: 60px;
+}
