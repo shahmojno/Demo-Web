@@ -27,7 +27,7 @@ h2{
 }
 
 .half-width img{
-    width: 80%;
+    width: 70%;
     margin: 10px;
 }
 
@@ -36,7 +36,7 @@ h2{
     text-align: justify;
     font-weight: 500px;
     margin-right: 30px;
-    m
+   
 }
 
 #color-web{
@@ -52,4 +52,53 @@ h2{
 
 .margin-con{
     margin-left: 60px;
+}
+
+.anchor{
+    color: whitesmoke;
+    background-image: linear-gradient(blue, red);
+padding: 10px 20px;
+font-size: 20px;
+text-decoration: none;
+}
+
+
+.Dream{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.padding{
+    margin: 50px;
+}
+
+.experience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    
+}
+
+.experience-item{
+    width: 40%;
+    box-shadow: 10px 20px 100px red;
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+#Full-Stack{
+    border-left: 5px solid ;
+   border-image: linear-gradient(red, blue);
+   border-image-slice: 1;
+   margin-right: 20px;
+}
+
+#Baby-Web{
+    border-left: 5px solid ;
+    border-image: linear-gradient(red, blue);
+    border-image-slice: 1;
 }
